@@ -9,4 +9,4 @@ As a student, I travel with my laptop more often than a notebook, so the best wa
 
 If you find these walkthroughs helpful — it's my pleasure.
 
-- [Basic Pentesting](walkthroughs/BasicPentesting.md)
+- [Basic Pentesting](BasicPentesting.md)
