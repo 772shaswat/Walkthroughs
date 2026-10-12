@@ -44,7 +44,10 @@
 - Command: sudo -u#-1 /bin/bash  
   - sudo runs command as another user.  
   - -u specifies user ID.  
-  - #-1 interpreted as 4294967295 (32-bit unsigned wraparound).  
+  - #-1 interpreted as 4294967295 (32-bit unsigned wraparound).
+  - The kernel or sudo library doesn't actually allow UID 4294967295 to exist as a real user.
+  - This special value is treated as "no UID" or "invalid UID".
+  - Many implementations map this back to UID 0 for compatibility reasons, ultimately spawning a root shell.
   - Kernel maps this UID to root (UID 0).  
 - Result: root shell access.  
 
