@@ -12,3 +12,4 @@ If you find these walkthroughs helpful — it's my pleasure.
 - [Basic Pentesting](BasicPentesting.md)
 - [Brooklyn Nine Nine](Brooklyn99.md)
 - [Agent Sudo](AgentSudo.md)
+- [Anonforce](Anonforce.md)
