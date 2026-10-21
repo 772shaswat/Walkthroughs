@@ -13,3 +13,4 @@ If you find these walkthroughs helpful — it's my pleasure.
 - [Brooklyn Nine Nine](Brooklyn99.md)
 - [Agent Sudo](AgentSudo.md)
 - [Anonforce](Anonforce.md)
+- [Dig Dug](DigDug.md)
