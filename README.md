@@ -14,3 +14,4 @@ If you find these walkthroughs helpful — it's my pleasure.
 - [Agent Sudo](AgentSudo.md)
 - [Anonforce](Anonforce.md)
 - [Dig Dug](DigDug.md)
+- [Classic Passwd](ClassicPasswd.md)
