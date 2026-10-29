@@ -15,3 +15,4 @@ If you find these walkthroughs helpful — it's my pleasure.
 - [Anonforce](Anonforce.md)
 - [Dig Dug](DigDug.md)
 - [Classic Passwd](ClassicPasswd.md)
+- [Pickle Rick](PickleRick.md)
