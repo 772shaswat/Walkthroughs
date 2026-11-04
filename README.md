@@ -16,3 +16,4 @@ If you find these walkthroughs helpful - it's my pleasure.
 - [Dig Dug](DigDug.md)
 - [Classic Passwd](ClassicPasswd.md)
 - [Pickle Rick](PickleRick.md)
+- [Room 404](Room404.md)
