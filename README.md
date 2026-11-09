@@ -17,3 +17,4 @@ If you find these walkthroughs helpful - it's my pleasure.
 - [Classic Passwd](ClassicPasswd.md)
 - [Pickle Rick](PickleRick.md)
 - [Room 404](Room404.md)
+- [Basic Malware RE](BasicMalwareRE.md)
