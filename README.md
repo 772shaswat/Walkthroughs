@@ -20,3 +20,4 @@ If you find these walkthroughs helpful - it's my pleasure.
 - [Basic Malware RE](BasicMalwareRE.md)
 - [TryHeartMe](TryHeartMe.md)
 - [CupidBot](CupidBot.md)
+- [0x41haz](0x41haz.md)
