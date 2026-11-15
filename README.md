@@ -19,3 +19,4 @@ If you find these walkthroughs helpful - it's my pleasure.
 - [Room 404](Room404.md)
 - [Basic Malware RE](BasicMalwareRE.md)
 - [TryHeartMe](TryHeartMe.md)
+- [CupidBot](CupidBot.md)
